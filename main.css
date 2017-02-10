@@ -1,0 +1,52 @@
+/* Universal Styles */
+
+body {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+/* Bootstrap Overrides */
+
+.jumbotron {
+  background-image: url("https://static.pexels.com/photos/90807/pexels-photo-90807.jpeg"); 
+  background-position: center center; 
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.navbar {
+margin-bottom:0px;
+}
+
+#showcase {
+  margin-top: 50px;
+}
+
+/* About Section - Grid System */
+
+.left-col {
+  font-size: 52px;
+}
+
+.right-col {
+  font-size: 24px;
+}
+
+/* Contact - Grid System */
+
+#contact p {
+  font-size: 24px;
+}
+
+.row {
+margin-bottom: 25px;
+
+}
+
+#social{
+    color: blue;
+}
