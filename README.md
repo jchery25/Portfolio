@@ -18,7 +18,7 @@ The following **technologies** were used to complete this website:
 
 Here's a walkthrough of the website:
 
-<img src= 'http://i.imgur.com/IU6cKSo.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src= 'http://i.imgur.com/Uvkaq4U.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
